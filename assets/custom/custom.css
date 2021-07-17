@@ -1,0 +1,8 @@
+#showPassword,#showPassword2 {
+    position: relative;
+    z-index: 1;
+    left: 90%;
+    top: -30px;
+    cursor: pointer;
+    background-color: white;
+}
